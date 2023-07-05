@@ -1,0 +1,26 @@
+2023-07-05 11:58:47,794 - DEBUG - Program starting
+2023-07-05 11:58:47,794 - DEBUG - datafile and fit specified properly
+2023-07-05 11:58:48,273 - DEBUG - data loaded and preprocessed
+2023-07-05 11:58:48,296 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-07-05 11:58:48,296 - INFO - [33mPress CTRL+C to quit[0m
+2023-07-05 11:58:48,299 - INFO -  * Restarting with stat
+2023-07-05 11:58:52,130 - DEBUG - Program starting
+2023-07-05 11:58:52,130 - DEBUG - datafile and fit specified properly
+2023-07-05 11:58:52,619 - DEBUG - data loaded and preprocessed
+2023-07-05 11:58:52,629 - WARNING -  * Debugger is active!
+2023-07-05 11:58:52,646 - INFO -  * Debugger PIN: 140-667-320
+2023-07-05 11:58:53,281 - INFO - 127.0.0.1 - - [05/Jul/2023 11:58:53] "GET /?query=pew HTTP/1.1" 200 -
+2023-07-05 11:58:53,677 - INFO - 127.0.0.1 - - [05/Jul/2023 11:58:53] "GET /static/css/animate.min.css HTTP/1.1" 200 -
+2023-07-05 11:58:53,688 - INFO - 127.0.0.1 - - [05/Jul/2023 11:58:53] "GET /static/css/all.min.css HTTP/1.1" 200 -
+2023-07-05 11:58:53,698 - INFO - 127.0.0.1 - - [05/Jul/2023 11:58:53] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-07-05 11:58:53,703 - INFO - 127.0.0.1 - - [05/Jul/2023 11:58:53] "GET /static/js/scripts.js HTTP/1.1" 200 -
+2023-07-05 11:58:53,704 - INFO - 127.0.0.1 - - [05/Jul/2023 11:58:53] "GET /static/css/styles.css HTTP/1.1" 200 -
+2023-07-05 11:58:53,748 - INFO - 127.0.0.1 - - [05/Jul/2023 11:58:53] "GET /static/css/images/background.jpg HTTP/1.1" 200 -
+2023-07-05 11:58:53,768 - INFO - 127.0.0.1 - - [05/Jul/2023 11:58:53] "GET /static/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 -
+2023-07-05 11:58:55,321 - DEBUG - received query: pew
+2023-07-05 11:58:55,337 - DEBUG - Added similarity
+2023-07-05 11:58:55,338 - INFO - 127.0.0.1 - - [05/Jul/2023 11:58:55] "POST /search HTTP/1.1" 200 -
+2023-07-05 11:58:57,568 - DEBUG - Retrieved image from database
+2023-07-05 11:58:57,750 - DEBUG - Converted image to base64
+2023-07-05 11:58:57,758 - INFO - 127.0.0.1 - - [05/Jul/2023 11:58:57] "POST /retrieve_image HTTP/1.1" 200 -

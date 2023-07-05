@@ -1,0 +1,1 @@
+For Non-commercial use unless allowed by the developer 
